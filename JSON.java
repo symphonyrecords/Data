@@ -1,4 +1,4 @@
-package com.symphonyrecords.mediacomp.design;
+package yourPackageName;
 
 import org.json.JSONArray;
 import org.json.JSONException;
